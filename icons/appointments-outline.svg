@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <defs></defs>
+    <g id="Appointments" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.000000, 2.000000)" stroke="#000000">
+            <g id="Group-12-Copy-6">
+                <rect id="Rectangle-13" stroke-width="1.6" x="0.8" y="2.50356315" width="16.4489768" height="16.287413" rx="2.5"></rect>
+                <path d="M1.28921263,8.09192494 L16.78362,8.09192494" id="Line" stroke-width="1.6" stroke-linecap="square"></path>
+                <path d="M5.58658804,0.425890786 L5.58658804,4.68479865" id="Line-2" stroke-width="1.6" stroke-linecap="round"></path>
+                <path d="M12.4623887,0.425890786 L12.4623887,4.68479865" id="Line-2-Copy" stroke-width="1.6" stroke-linecap="round"></path>
+                <path d="M6.23119436,18.6467218 L6.23119436,8.51781573" id="Line-4-Copy-8" stroke-linecap="square"></path>
+                <path d="M12.2475199,18.6467218 L12.2475199,8.51781573" id="Line-4-Copy-9" stroke-linecap="square"></path>
+                <path d="M0.859475084,13.55 L16.9746329,13.55" id="Line-4-Copy-10" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
