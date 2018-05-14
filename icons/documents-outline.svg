@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <defs></defs>
+    <g id="Documents" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(3.000000, 2.000000)" stroke="#000000">
+            <g id="Group">
+                <g id="Group-10">
+                    <path d="M16.2588235,7.28337894 L9.89939154,0.8 L2.13235294,0.8 C1.40000802,0.8 0.8,1.41170232 0.8,2.17391304 L0.8,17.826087 C0.8,18.5882977 1.40000802,19.2 2.13235294,19.2 L14.9264706,19.2 C15.6588155,19.2 16.2588235,18.5882977 16.2588235,17.826087 L16.2588235,7.28337894 Z" id="Rectangle-11" stroke-width="1.6"></path>
+                    <path d="M14.5392174,6.84705882 L9.62352941,1.93137085 L9.62352941,5.39792388 C9.62352941,6.18705245 10.3247862,6.84705882 11.2132353,6.84705882 L14.5392174,6.84705882 Z" id="Rectangle-12" stroke-width="1.6"></path>
+                    <path d="M4.70588235,7.05882353 L7.05882353,7.05882353" id="Line-7-Copy-3" stroke-linecap="round"></path>
+                    <path d="M4.70588235,14.7058824 L12.3529412,14.7058824" id="Line-7-Copy-4" stroke-linecap="round"></path>
+                    <path d="M4.70588235,10.8823529 L12.3529412,10.8823529" id="Line-7-Copy-5" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
