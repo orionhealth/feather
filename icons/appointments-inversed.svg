@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   
+    <defs></defs>
+    <g id="Appointments-Inversed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.000000, 2.000000)" stroke="#000000">
+            <g id="Group-12-Copy-6">
+                <rect id="Rectangle-13" stroke-width="1.6" x="0.8" y="2.50356315" width="16.4489768" height="16.287413" rx="2.5"></rect>
+                <path d="M1.28921263,8.09192494 L16.78362,8.09192494" id="Line" stroke-width="1.6" stroke-linecap="square"></path>
+                <path d="M5.58658804,0.425890786 L5.58658804,4.68479865" id="Line-2" stroke-width="1.6" stroke-linecap="round"></path>
+                <path d="M12.4623887,0.425890786 L12.4623887,4.68479865" id="Line-2-Copy" stroke-width="1.6" stroke-linecap="round"></path>
+                <path d="M6.23119436,18.6467218 L6.23119436,8.51781573" id="Line-4-Copy-8" stroke-linecap="square"></path>
+                <path d="M12.2475199,18.6467218 L12.2475199,8.51781573" id="Line-4-Copy-9" stroke-linecap="square"></path>
+                <path d="M0.859475084,13.55 L16.9746329,13.55" id="Line-4-Copy-10" stroke-linecap="square"></path>
+            </g>
+        </g>
+        <path d="M5.875,5 L7.625,5 L7.625,6 C7.625,6.6 7.975,7 8.5,7 C9.025,7 9.375,6.6 9.375,6 L9.375,5 L14.625,5 L14.625,6 C14.625,6.6 14.975,7 15.5,7 C16.025,7 16.375,6.6 16.375,6 L16.375,5 L18.125,5 C18.65,5 19,5.4 19,6 L19,9 L5,9 L5,6 C5,5.4 5.35,5 5.875,5 Z" id="Path" stroke="#000000" fill="#000000"></path>
+    </g>
+</svg>
